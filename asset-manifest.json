@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/StarTrack-js/static/css/main.965d24cf.chunk.css",
+    "main.js": "/StarTrack-js/static/js/main.8f7569f3.chunk.js",
+    "main.js.map": "/StarTrack-js/static/js/main.8f7569f3.chunk.js.map",
+    "runtime-main.js": "/StarTrack-js/static/js/runtime-main.f683f26e.js",
+    "runtime-main.js.map": "/StarTrack-js/static/js/runtime-main.f683f26e.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/StarTrack-js/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.919c0b7a.chunk.js": "/StarTrack-js/static/js/2.919c0b7a.chunk.js",
+    "static/js/2.919c0b7a.chunk.js.map": "/StarTrack-js/static/js/2.919c0b7a.chunk.js.map",
+    "index.html": "/StarTrack-js/index.html",
+    "precache-manifest.2eed6f8f65ea8adffd8d00316cd768b8.js": "/StarTrack-js/precache-manifest.2eed6f8f65ea8adffd8d00316cd768b8.js",
+    "service-worker.js": "/StarTrack-js/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/StarTrack-js/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.965d24cf.chunk.css.map": "/StarTrack-js/static/css/main.965d24cf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f683f26e.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.919c0b7a.chunk.js",
+    "static/css/main.965d24cf.chunk.css",
+    "static/js/main.8f7569f3.chunk.js"
+  ]
+}
